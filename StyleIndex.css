@@ -1,0 +1,83 @@
+.flex{
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.wrapper {
+  margin: 0 auto;
+  width: 48%;
+  border:1px solid #dddddd;
+}
+
+.nav {
+  background-color: #550106;
+  padding: 25px;
+}
+
+ul{margin:0px;
+padding-left:6.5px;
+list-style-type: none;}
+
+li{float:left;
+padding-right: 2px}
+
+li a {display:block;
+color:white;
+text-decoration: none}
+
+.b1 {
+  background-color: #EA261B;
+  height: 385px;
+}
+.b2 {
+  background-color: #550106;
+  height: 225px;
+  margin-top: 64px;
+  margin-bottom: 32px;
+  margin-left: 10px;
+  margin-right: 10px
+}
+.b3 {
+  background-color: #550106;
+  height: 225px;
+  margin-top: 64px;
+  margin-bottom: 32px;
+  margin-left: 10px;
+  margin-right: 10px
+}
+.b4 {
+  background-color: #550106;
+  height: 225px;
+  margin-top: 64px;
+  margin-bottom: 32px;
+  margin-left: 10px;
+  margin-right: 10px
+}
+.b5 {
+  background-color: #550106;
+  height: 225px;
+  margin-top: 64px;
+  margin-bottom: 32px;
+  margin-left: 10px;
+  margin-right: 10px
+}
+.b6 {
+  background-color: #230001;
+  height: 917px
+}
+.b7 {
+  background-color: #A10A10;
+  padding-top: 140px;
+  padding-bottom: 70px
+}
+.b71 {
+  background-color: #D87F7E;
+  height: 412px;
+  margin-left: 32px;
+  margin-right: 32px
+}
+.b8 {
+  background-color: #230001;
+  height: 204px;
+}
